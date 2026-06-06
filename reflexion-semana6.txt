@@ -1,0 +1,19 @@
+¿Por qué es importante que las plataformas tecnológicas
+ puedan recibir reportes o información enviada por los
+  ciudadanos de forma estructurada?
+
+Es importante porque cuando los ciudadanos envían sus 
+reportes de forma ordenada y limpia, las computadoras
+de la alcaldía o de la empresa de servicios pueden 
+entender el problema de inmediato sin que una persona
+tenga que leer miles de mensajes largos o quejas
+desordenadas. Al separar los datos en casillas claras
+(como el tipo de problema y la descripción), el sistema 
+puede enviar el reporte automáticamente al departamento
+correcto en segundos. Por ejemplo, un reporte de 
+Lámpara dañada va directo a los electricistas.
+Esto hace que las soluciones sean muchísimo más
+rápidas, evita que los reportes se pierdan en el
+olvido y permite saber cuáles son los problema
+más urgentes de cada barrio para solucionarlos
+primero. 
